@@ -1,0 +1,5 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\委托\bin\Debug\委托.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\委托\bin\Debug\委托.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\委托\obj\Debug\委托.csprojResolveAssemblyReference.cache
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\委托\obj\Debug\委托.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\委托\obj\Debug\委托.pdb

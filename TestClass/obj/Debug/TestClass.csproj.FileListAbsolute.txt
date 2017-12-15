@@ -1,0 +1,4 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\TestClass\bin\Debug\TestClass.dll
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\TestClass\bin\Debug\TestClass.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\TestClass\obj\Debug\TestClass.dll
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\TestClass\obj\Debug\TestClass.pdb

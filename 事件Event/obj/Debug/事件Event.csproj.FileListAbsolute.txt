@@ -1,0 +1,4 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event\bin\Debug\事件Event.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event\bin\Debug\事件Event.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event\obj\Debug\事件Event.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event\obj\Debug\事件Event.pdb

@@ -1,0 +1,5 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event2\bin\Debug\事件Event2.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event2\bin\Debug\事件Event2.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event2\obj\Debug\事件Event2.csprojResolveAssemblyReference.cache
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event2\obj\Debug\事件Event2.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\事件Event2\obj\Debug\事件Event2.pdb

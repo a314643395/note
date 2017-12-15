@@ -1,0 +1,5 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\Tesr\bin\Debug\Tesr.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\Tesr\bin\Debug\Tesr.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\Tesr\obj\Debug\Tesr.exe
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\Tesr\obj\Debug\Tesr.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\ConsoleApplication2\Tesr\obj\Debug\Tesr.csprojResolveAssemblyReference.cache
