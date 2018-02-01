@@ -20,13 +20,13 @@ namespace 事件Event2
                 //给这个出火影忍者的事件注册感兴趣的订阅者，此例中是小明
                 publisher.Publish += new Publisher.PublishEventHander(MrMing.Receive);
                 //发布者在这里触发出版火影忍者的事件
-                publisher.issue("火影忍者");
+                publisher.issue(name);
             }
             else
             {
                 //给这个出火影忍者的事件注册感兴趣的订阅者，此例中是小明[另一种事件注册方式]
                 publisher.Publish += MrZhang.Receive;
-                publisher.issue("环球日报");
+                publisher.issue(name);
             }
             Console.ReadKey();
         }
